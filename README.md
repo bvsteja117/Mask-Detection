@@ -46,6 +46,4 @@ The trained model provides predictions on whether an individual is wearing a fac
 
 - Dataset: [Face Mask Dataset](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset/data) by Omkar Gurav.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
